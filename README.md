@@ -42,7 +42,7 @@ This tutorial takes the output of HTML files from R markdown as an example to de
 
 \
 
-<font size="4">**Tutorial Structure:**</font> 聽
+<font size="4">**Tutorial Structure:**</font> 
 
 ------------------------------------------------------------------------
 
